@@ -13,7 +13,8 @@ sponsored by Innersloth LLC. Portions of the materials
 
 contained herein are the property of Innersloth LLC.
 
-This is not a cheat, it is a mod that adds new features to the game.
+This is not a cheat, it is a mod that adds new features to the game.<img width="933" height="922" alt="image" src="https://github.com/user-attachments/assets/24e347ee-bb47-4c0f-bef4-8bdd254d1473" />
+
 
 Information
 BanMod was created primarily to prevent "toxic" players from rejoining after the official Among Us ban. Unfortunately, the official Among Us ban wasn't enough and can be circumvented by changing the device's IP address or using a VPN!!!
