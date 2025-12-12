@@ -1,5 +1,5 @@
 # Banmod-by-Bart-
-This is mod file of Banmod by bart 2.3.7 - ! DOES NOT CONTAIN ITS .DLL !
+This is a Banmod by bart vanilla mod 2.3.7 - ! I DO NOT OWN THE MOD ALL CREDIT GOES TOGianniBart !
 BanMod for Among Us
 Cover
 
